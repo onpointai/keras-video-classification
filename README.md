@@ -5,7 +5,7 @@
 The training was done on Google's Colab using a GPU.
 
 The [dataset]() is a collection of images curated using a Google image search.
-I canno longer find [the original](https://github.com/anubhavmaity)
+I can no longer find [the original](https://github.com/anubhavmaity)
 Fortunately I created my copy which is [here](https://drive.google.com/open?id=1rFtPaqINj_AQFBJ6_fMHDwR5SSO0XoMs)
 
 ├── Sports-Type-Classifier  
