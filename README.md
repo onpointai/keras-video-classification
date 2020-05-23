@@ -6,10 +6,10 @@ The training was done on Google's Colab using a GPU.
 
 The [dataset]() is a collection of images curated using a Google image search.
 I cannot find it on [originally here](https://github.com/anubhavmaity)
-FOrtunately I created my owne copy which is [here](https://drive.google.com/open?id=1rFtPaqINj_AQFBJ6_fMHDwR5SSO0XoMs)
-.
-├── Sports-Type-Classifier
-│   ├── data
+Fortunately I created my owne copy which is [here](https://drive.google.com/open?id=1rFtPaqINj_AQFBJ6_fMHDwR5SSO0XoMs)
+
+├── Sports-Type-Classifier  
+│   ├── data  
 │   │   ├── badminton [938 entries]  
 │   │   ├── baseball [746 entries]  
 │   │   ├── basketball [495 entries]  
